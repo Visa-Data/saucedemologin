@@ -44,4 +44,4 @@ npx playwright show-report
 🖼️ Demo Evidence
 Here are sample output from the test run:
 Screenshot
-(image.png)
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c6257965-fa52-4704-b656-e563aac56300" />
